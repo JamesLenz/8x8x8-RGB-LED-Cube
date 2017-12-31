@@ -1,7 +1,3 @@
-//My board's pin breakouts
-//5V, GND, A5,  A4,  2,    3,        4,        6
-//5V, GND, SCL, SDA, INT0, INT1/PWM, latchPin, PWM
-
 //includes
 #include "header.h"
 #include "Animations.h"
